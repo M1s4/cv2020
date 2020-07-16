@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_2" data-name="Rectángulo 2" width="17" height="17" transform="translate(0 -0.21)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_2" data-name="Enmascarar grupo 2" transform="translate(0 0.21)" clip-path="url(#clip-path)">
+    <path id="iconfinder_06-facebook_104498" d="M15.344,8.028h-2.69V6.264a.718.718,0,0,1,.748-.817h1.9V2.534l-2.615-.01A3.311,3.311,0,0,0,9.123,6.087V8.028H7.444v3H9.123v8.494h3.531V11.03h2.382Z" transform="translate(-2.114 -2.496)" fill="#fff" stroke="#707070" stroke-width="0.414"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13" height="13" viewBox="0 0 13 13">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_4" data-name="Rectángulo 4" width="13" height="13" transform="translate(0 -0.372)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_4" data-name="Enmascarar grupo 4" transform="translate(0 0.372)" clip-path="url(#clip-path)">
+    <g id="whatsapp" transform="translate(0.71)">
+      <g id="Grupo_4" data-name="Grupo 4">
+        <path id="Trazado_7" data-name="Trazado 7" d="M6.5,0h0A6.5,6.5,0,0,0,1.237,10.31l-.81,2.415,2.5-.8A6.5,6.5,0,1,0,6.5,0Zm3.782,9.179a1.834,1.834,0,0,1-1.276.917c-.34.072-.783.13-2.277-.489A8.143,8.143,0,0,1,3.5,6.749a3.712,3.712,0,0,1-.772-1.961,2.075,2.075,0,0,1,.665-1.582.944.944,0,0,1,.665-.233c.08,0,.153,0,.218.007.191.008.287.02.413.321.157.378.539,1.311.584,1.406a.387.387,0,0,1,.028.352,1.123,1.123,0,0,1-.21.3c-.1.111-.187.195-.283.314-.088.1-.187.214-.076.4A5.769,5.769,0,0,0,5.78,7.386a4.779,4.779,0,0,0,1.524.94.411.411,0,0,0,.458-.072,7.865,7.865,0,0,0,.508-.673.363.363,0,0,1,.466-.141c.175.061,1.1.52,1.3.615s.317.141.363.222A1.619,1.619,0,0,1,10.284,9.179Z" fill="#fff" stroke="#707070" stroke-width="0.039"/>
+      </g>
+    </g>
+  </g>
+</svg>

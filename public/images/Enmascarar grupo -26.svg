@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_16" data-name="Rectángulo 16" width="25" height="25" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_10" data-name="Enmascarar grupo 10" clip-path="url(#clip-path)">
+    <path id="vue_icon_131889" d="M25,1.685,12.5,23.315,0,1.685H2.031L12.5,19.8,22.969,1.685ZM12.5,6.6,9.61,1.685H5.227L12.5,14.27,19.773,1.685H15.39Z" transform="translate(0.449 0.257)"/>
+  </g>
+</svg>

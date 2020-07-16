@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13" height="13" viewBox="0 0 13 13">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_1" data-name="Rectángulo 1" width="13" height="13" transform="translate(0 -0.372)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_1" data-name="Enmascarar grupo 1" transform="translate(0 0.372)" clip-path="url(#clip-path)">
+    <g id="social-media" transform="translate(-0.327 1.354)">
+      <path id="Trazado_1" data-name="Trazado 1" d="M6.657,12.895c2.02,0,4.842.049,5.869-2A5.754,5.754,0,0,0,13,8.344h0a4.589,4.589,0,0,0-1.056-3.061,4.094,4.094,0,0,0,.209-1.292,2.623,2.623,0,0,0-.4-1.388,4.212,4.212,0,0,0-2.92.944A9.458,9.458,0,0,0,6.659,3.3a10.487,10.487,0,0,0-2.4.268A4.26,4.26,0,0,0,1.31,2.6,2.652,2.652,0,0,0,.915,3.992,4.155,4.155,0,0,0,1.124,5.3,4.582,4.582,0,0,0,0,8.344a5.7,5.7,0,0,0,.547,2.546c1.067,2.077,4.057,2,6.11,2ZM3.792,7.484a11.036,11.036,0,0,1,1.517.161c1.851.282,2.825-.161,3.96-.161A2.033,2.033,0,0,1,11.259,9.7c0,2.356-2.175,2.715-4.079,2.715H5.875c-1.9,0-4.073-.361-4.073-2.715A2.032,2.032,0,0,1,3.792,7.484Z" transform="translate(0 -2.603)" fill="#fff"/>
+      <path id="Trazado_2" data-name="Trazado 2" d="M16.431,16.359c.7,0,.994-.917.994-1.477s-.3-1.477-.994-1.477-.994.916-.994,1.477S15.733,16.359,16.431,16.359Z" transform="translate(-7.41 -7.788)" fill="#fff"/>
+      <path id="Trazado_3" data-name="Trazado 3" d="M6.864,16.36c.7,0,.994-.917.994-1.477s-.3-1.477-.994-1.477-.994.917-.994,1.477S6.165,16.36,6.864,16.36Z" transform="translate(-2.817 -7.789)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
